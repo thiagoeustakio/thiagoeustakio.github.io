@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miriam Goubran | HRRG</title>
+    <link>/author/miriam-goubran/</link>
+      <atom:link href="/author/miriam-goubran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miriam Goubran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Miriam Goubran</title>
+      <link>/author/miriam-goubran/</link>
+    </image>
+    
+    <item>
+      <title>Heart Rate Detection Using a Miniaturized Multimodal Tactile Sensor</title>
+      <link>/publication/lima-2019-heart/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lima-2019-heart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Recognition Through Manipulation Using Tactile Enabled Prosthetic Fingers and Feedback Glove-Experimental Study</title>
+      <link>/publication/kucherhan-2018-object/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kucherhan-2018-object/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

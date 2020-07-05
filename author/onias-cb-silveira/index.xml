@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onias CB Silveira | HRRG</title>
+    <link>/author/onias-cb-silveira/</link>
+      <atom:link href="/author/onias-cb-silveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Onias CB Silveira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Onias CB Silveira</title>
+      <link>/author/onias-cb-silveira/</link>
+    </image>
+    
+    <item>
+      <title>Haptic Bio-Inspired Sensor Calibration For Surface Reconstruction</title>
+      <link>/publication/ramos-2019-haptic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ramos-2019-haptic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

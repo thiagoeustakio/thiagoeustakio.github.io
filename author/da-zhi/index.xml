@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Da Zhi | HRRG</title>
+    <link>/author/da-zhi/</link>
+      <atom:link href="/author/da-zhi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Da Zhi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Da Zhi</title>
+      <link>/author/da-zhi/</link>
+    </image>
+    
+    <item>
+      <title>Teaching a robot sign language using vision-based hand gesture recognition</title>
+      <link>/publication/zhi-2018-teaching/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhi-2018-teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy controlled object manipulation using a three-fingered robotic hand</title>
+      <link>/publication/da-2017-fuzzy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/da-2017-fuzzy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

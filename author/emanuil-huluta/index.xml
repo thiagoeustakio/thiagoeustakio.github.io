@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emanuil Huluta | HRRG</title>
+    <link>/author/emanuil-huluta/</link>
+      <atom:link href="/author/emanuil-huluta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emanuil Huluta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Emanuil Huluta</title>
+      <link>/author/emanuil-huluta/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven analysis of kinaesthetic and tactile information for shape classification</title>
+      <link>/publication/de-2015-data/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2015-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural network-Based hand posture control of a humanoid Robot Hand</title>
+      <link>/publication/huluta-2014-neural/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/huluta-2014-neural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

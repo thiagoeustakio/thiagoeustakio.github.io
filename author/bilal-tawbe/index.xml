@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilal Tawbe | HRRG</title>
+    <link>/author/bilal-tawbe/</link>
+      <atom:link href="/author/bilal-tawbe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bilal Tawbe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Bilal Tawbe</title>
+      <link>/author/bilal-tawbe/</link>
+    </image>
+    
+    <item>
+      <title>Computational intelligence and mechatronics solutions for robotic tactile object recognition</title>
+      <link>/publication/cretu-2015-computational/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/cretu-2015-computational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

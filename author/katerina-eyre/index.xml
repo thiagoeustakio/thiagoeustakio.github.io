@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katerina Eyre | HRRG</title>
+    <link>/author/katerina-eyre/</link>
+      <atom:link href="/author/katerina-eyre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katerina Eyre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Katerina Eyre</title>
+      <link>/author/katerina-eyre/</link>
+    </image>
+    
+    <item>
+      <title>Stable grasping and object reorientation with a three-fingered robotic hand</title>
+      <link>/publication/da-2017-stable/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/da-2017-stable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

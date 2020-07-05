@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana-Maria Cretu | HRRG</title>
+    <link>/author/ana-maria-cretu/</link>
+      <atom:link href="/author/ana-maria-cretu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana-Maria Cretu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Ana-Maria Cretu</title>
+      <link>/author/ana-maria-cretu/</link>
+    </image>
+    
+    <item>
+      <title>End-effector approach flexibilization in a surface approximation task using a bioinspired tactile sensing module</title>
+      <link>/publication/de-2019-end/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2019-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal bio-inspired tactile sensing module</title>
+      <link>/publication/de-2017-multimodal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2017-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal bio-inspired tactile sensing module for surface characterization</title>
+      <link>/publication/alves-2017-multimodal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alves-2017-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactile profile classification using a multimodal MEMs-based sensing module</title>
+      <link>/publication/alves-2016-tactile/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/alves-2016-tactile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational intelligence and mechatronics solutions for robotic tactile object recognition</title>
+      <link>/publication/cretu-2015-computational/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/cretu-2015-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Touch sensing for humanoid robots</title>
+      <link>/publication/de-2015-touch/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2015-touch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

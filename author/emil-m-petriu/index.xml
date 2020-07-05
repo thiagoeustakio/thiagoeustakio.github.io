@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emil M Petriu | HRRG</title>
+    <link>/author/emil-m-petriu/</link>
+      <atom:link href="/author/emil-m-petriu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emil M Petriu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Emil M Petriu</title>
+      <link>/author/emil-m-petriu/</link>
+    </image>
+    
+    <item>
+      <title>Estimating the Orientation of Objects from Tactile Sensing Data Using Machine Learning Methods and Visual Frames of Reference</title>
+      <link>/publication/prado-2019-estimating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/prado-2019-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Detection Using a Miniaturized Multimodal Tactile Sensor</title>
+      <link>/publication/lima-2019-heart/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lima-2019-heart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Hand Telemanipulation Using a Robotic Hand and Biology-Inspired Haptic Sensing</title>
+      <link>/publication/da-2019-hand/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/da-2019-hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Recognition Through Manipulation Using Tactile Enabled Prosthetic Fingers and Feedback Glove-Experimental Study</title>
+      <link>/publication/kucherhan-2018-object/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kucherhan-2018-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching a robot sign language using vision-based hand gesture recognition</title>
+      <link>/publication/zhi-2018-teaching/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhi-2018-teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy controlled object manipulation using a three-fingered robotic hand</title>
+      <link>/publication/da-2017-fuzzy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/da-2017-fuzzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal bio-inspired tactile sensing module</title>
+      <link>/publication/de-2017-multimodal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2017-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal bio-inspired tactile sensing module for surface characterization</title>
+      <link>/publication/alves-2017-multimodal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alves-2017-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable grasping and object reorientation with a three-fingered robotic hand</title>
+      <link>/publication/da-2017-stable/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/da-2017-stable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving fuzzy models for myoelectric-based control of a prosthetic hand</title>
+      <link>/publication/precup-2016-evolving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/precup-2016-evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent dynamic neural network model for myoelectric-based control of a prosthetic hand</title>
+      <link>/publication/teban-2016-recurrent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/teban-2016-recurrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactile profile classification using a multimodal MEMs-based sensing module</title>
+      <link>/publication/alves-2016-tactile/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/alves-2016-tactile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational intelligence and mechatronics solutions for robotic tactile object recognition</title>
+      <link>/publication/cretu-2015-computational/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/cretu-2015-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven analysis of kinaesthetic and tactile information for shape classification</title>
+      <link>/publication/de-2015-data/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2015-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Touch sensing for humanoid robots</title>
+      <link>/publication/de-2015-touch/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2015-touch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

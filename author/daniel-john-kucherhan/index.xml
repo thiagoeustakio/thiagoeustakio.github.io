@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel John Kucherhan | HRRG</title>
+    <link>/author/daniel-john-kucherhan/</link>
+      <atom:link href="/author/daniel-john-kucherhan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel John Kucherhan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel John Kucherhan</title>
+      <link>/author/daniel-john-kucherhan/</link>
+    </image>
+    
+    <item>
+      <title>Fuzzy controlled object manipulation using a three-fingered robotic hand</title>
+      <link>/publication/da-2017-fuzzy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/da-2017-fuzzy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | HRRG</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Estimating the Orientation of Objects from Tactile Sensing Data Using Machine Learning Methods and Visual Frames of Reference</title>
+      <link>/publication/prado-2019-estimating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/prado-2019-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal bio-inspired tactile sensing module</title>
+      <link>/publication/de-2017-multimodal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2017-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal bio-inspired tactile sensing module for surface characterization</title>
+      <link>/publication/alves-2017-multimodal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alves-2017-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Touch sensing for humanoid robots</title>
+      <link>/publication/de-2015-touch/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2015-touch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
