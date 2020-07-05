@@ -5,12 +5,29 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu18c6b5565a425802de7c0ffd2742ddfe_3892_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>IEEE CCECE 2020</title>
+      <link>/talk/ccece/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/ccece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEEE EMBC - CMBES 2020</title>
+      <link>/talk/embscmbs/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/embscmbs/</guid>
+      <description>&lt;p&gt;Dr. Oliveira presents &amp;ldquo;Assisting the Non-invasive Diagnosis of Liver Fibrosis Stages using Machine Learning Methods&amp;rdquo; at 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction with the 43rd Annual Conference of the Canadian Medical and Biological Engineering Society.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
